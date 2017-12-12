@@ -1,0 +1,11 @@
+#5 connected components (0, 1, 3, 7, 9, 10, 11, 12)  (2, 4)  and the rest are singletons
+13 9
+0 1 1
+1 7 1
+2 4 1
+11 12 1
+10 11 1
+9 12 1
+9 10 1
+3 9 1
+1 11 1

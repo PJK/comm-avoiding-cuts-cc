@@ -1,0 +1,6 @@
+# 2016-07-27 14:37:39.661799 4c466c5c7db1b09989fe3d2a2c7843496a0842ed Namespace(N=4, edges=None, graph='cycle_graph(N)', k=None, prob=None, seed=1234, set_weights=<function set_weights at 0x10b54eea0>, weight=100)
+4 4
+0 1 100
+0 3 100
+1 2 100
+2 3 100

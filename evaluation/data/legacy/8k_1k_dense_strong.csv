@@ -1,0 +1,15 @@
+input,seed,cores,vertices,edges,time,trials,concurrency,result
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,16,8000,8192000,32.0542,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,24,8000,8192000,29.1829,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,32,8000,8192000,18.1803,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,48,8000,8192000,17.8386,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,64,8000,8192000,9.98653,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,96,8000,8192000,9.81883,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,128,8000,8192000,5.50541,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,192,8000,8192000,6.11595,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,256,8000,8192000,3.17233,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,320,8000,8192000,4.65298,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,384,8000,8192000,3.11717,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,448,8000,8192000,5.65346,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,512,8000,8192000,4.31514,1,high,204800
+/scratch/daint/kalvodap/density_variation/regular_8k_1024.in,0,576,8000,8192000,3.44161,1,high,204800
