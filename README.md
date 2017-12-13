@@ -136,7 +136,7 @@ Checking the cut value
 ./utils/generate.py 'cycle_graph(N)' 100 | ./utils/cut.py
 ```
 
-Also see (the list of available generators)[https://networkx.github.io/documentation/networkx-1.10/reference/generators.html]
+Also see [the list of available generators](https://networkx.github.io/documentation/networkx-1.10/reference/generators.html]).
 
 ## License
 
