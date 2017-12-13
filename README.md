@@ -26,7 +26,7 @@ The following dependencies are required:
  - MPI3 libraries and runtime
  - CMake 3.4+
 
-The specific versions of software used in our experiments are detailed in the paper. Our build for Piz Daint can be reproduced by running `build_daint.sh`
+The specific versions of software used in our experiments are detailed in the paper. Our build for Piz Daint can be reproduced by running `build_daint.sh` 
 
 Configure and execute the build:
 ```

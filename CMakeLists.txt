@@ -62,6 +62,12 @@ if (PROFILE_STEPS)
 	add_definitions(-DPROFILE_STEPS)
 endif (PROFILE_STEPS)
 
+option(WITH_METIS "Enable Metis-dependent parts. Breaks older build systems" OFF)
+if (WITH_METIS)
+	include_directories(lib/parmetis/include)
+	add_subdirectory(lib/parmetis)
+endif (WITH_METIS)
+
 option(WITH_GALOIS "Build code that depends on the Galois binaries" OFF)
 if (WITH_GALOIS)
 	include_directories(lib/galois-bin/include)
