@@ -155,3 +155,17 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+### 3rd party license
+
+This repository contains third-party dependencies licensed under other
+licenses that remain subject to those licenses under their respective
+terms and conditions. These dependencies are provided solely for 
+research and experimentation purposes. The third-party dependencies are not 
+a part of the "Communication-Efficient Randomized Minimum Cuts" software
+and thus not subject to the license terms above.
+
+ - [Galois](http://iss.ices.utexas.edu/?p=projects/galois)
+ - [ParMETIS](http://glaros.dtc.umn.edu/gkhome/metis/parmetis/overview)
+ - [Simto PRNG](http://sitmo.com/)
+
