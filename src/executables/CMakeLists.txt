@@ -39,12 +39,6 @@ add_executable(levine_transform levine_transform.cpp)
 add_executable(complete_graph_generator complete_graph_generator.cpp)
 add_executable(normalize_gplus normalize_gplus.cpp)
 
-if (WITH_METIS)
-    add_executable(metis_cut metis.cpp ../input/GraphInputIterator.cpp ../utils.cpp)
-    target_link_libraries(metis_cut ${MPI_LIBRARIES})
-    target_link_libraries(metis_cut parmetis)
-endif (WITH_METIS)
-
 if (WITH_GALOIS)
     add_executable(galois_cc galois_cc.cpp)
     target_link_libraries(galois_cc ${GALOIS_LIB})
