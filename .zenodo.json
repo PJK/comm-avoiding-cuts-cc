@@ -7,11 +7,17 @@
     "publication_date": "2018-02-08", 
     "creators": [
         {
-            "affiliation": "@google", 
+            "affiliation": "ETH Zurich", 
             "name": "Pavel Kalvoda"
         }, 
         {
-            "name": "Lukas"
+            "affiliation": "ETH Zurich", 
+            "name": "Lukas Gianinazzi"
+        },
+        
+        {
+            "affiliation": "ETH Zurich", 
+            "name": "Alessandro De Palma"
         }
     ], 
     "access_right": "open", 
