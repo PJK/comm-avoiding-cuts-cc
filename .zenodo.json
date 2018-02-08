@@ -1,0 +1,33 @@
+{
+    "title": "Parallel Communication-Avoiding Minimum Cuts and Connected Components", 
+    "doi": "10.5281/zenodo.1169430",
+    "license": "other-open", 
+    "description": "PJK/comm-avoiding-cuts-cc: PPoPP Artifact Release", 
+    "version": "v0.1", 
+    "upload_type": "software", 
+    "publication_date": "2018-02-08", 
+    "creators": [
+        {
+            "name": "Pavel Kalvoda"
+        }, 
+        {
+            "name": "Lukas Gianinazzi"
+        }, 
+        {
+            "name": "Alessandro De Palma"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/PJK/comm-avoiding-cuts-cc/tree/v0.1", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.1169429", 
+            "relation": "isPartOf"
+        }
+    ]
+}
