@@ -23,11 +23,6 @@
     "access_right": "open", 
     "related_identifiers": [
         {
-            "scheme": "url", 
-            "identifier": "https://github.com/PJK/comm-avoiding-cuts-cc/tree/x-zenodo-1", 
-            "relation": "isSupplementTo"
-        }, 
-        {
             "scheme": "doi", 
             "identifier": "10.5281/zenodo.1169429", 
             "relation": "isPartOf"
