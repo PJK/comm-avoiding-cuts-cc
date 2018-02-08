@@ -1,5 +1,7 @@
 # Parallel Communication-Avoiding Minimum Cuts and Connected Components
 
+[![DOI](https://zenodo.org/badge/114050916.svg)](https://zenodo.org/badge/latestdoi/114050916)
+
 This is an implementation of the PPoPP 2018 "Parallel Communication-Avoiding Minimum Cuts and Connected Components" paper by
 
 - [Pavel Kalvoda](https://github.com/PJK)
