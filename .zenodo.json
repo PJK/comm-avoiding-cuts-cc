@@ -1,7 +1,7 @@
 {
     "description": "PJK/comm-avoiding-cuts-cc: PPoPP Artifact Release",
     "license": "other-open", 
-    "title": "Parallel Communication-Avoiding Minimum Cuts and Connected Components"
+    "title": "Parallel Communication-Avoiding Minimum Cuts and Connected Components",
     "version": "v0.1.3", 
     "upload_type": "software", 
     "publication_date": "2018-02-08", 
