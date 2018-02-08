@@ -3,7 +3,7 @@
     "doi": "10.5281/zenodo.1169430",
     "license": "other-open", 
     "description": "PJK/comm-avoiding-cuts-cc: PPoPP Artifact Release", 
-    "version": "v0.1.1", 
+    "version": "v0.1.2", 
     "upload_type": "software", 
     "publication_date": "2018-02-08", 
     "creators": [
@@ -17,17 +17,5 @@
             "name": "Alessandro De Palma"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/PJK/comm-avoiding-cuts-cc/tree/v0.1", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.1169429", 
-            "relation": "isPartOf"
-        }
-    ]
+    "access_right": "open"
 }
